@@ -1,6 +1,3 @@
-
-
-
 console.log("ss")
 function login(){
     var username = document.getElementById('loginUsername').value
